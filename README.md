@@ -1,2 +1,2 @@
-# otevoima
+# otevoima ry
 website for an organization
